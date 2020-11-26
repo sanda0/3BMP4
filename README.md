@@ -17,7 +17,9 @@ NIBM video sessions downloader(big blue button only)
 <pre>
 
 git clone https://github.com/wijewardhane/3BMP4.git 
+
 pip install requests  
+
 pip install tqdm
 </pre>
 
