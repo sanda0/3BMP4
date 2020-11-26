@@ -16,10 +16,11 @@ NIBM video sessions downloader(big blue button only)
 <p> clone the repo <br> (Type the following code in CMD)</p>
 <pre>
 
-git clone https://github.com/wijewardhane/3BMP4.git && pip install requests && pip install tqdm
+git clone https://github.com/wijewardhane/3BMP4.git 
+pip install requests  
+pip install tqdm
 </pre>
 
-![image](https://user-images.githubusercontent.com/45274219/100305286-cdefb180-2fc6-11eb-99e5-0687265ab445.png)
 
 <h3>step 03</h3>
 <p>change directory to repo</p>
