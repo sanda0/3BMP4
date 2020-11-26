@@ -83,7 +83,7 @@ def menu():
     1. Download session
     0. exit 
     ''')
-show_banner()
+#show_banner()
 while(True):
     show_banner()
     menu()
