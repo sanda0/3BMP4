@@ -8,4 +8,15 @@ NIBM video sessions downloader(big blue button only)
 <li><a href="https://drive.google.com/file/d/1thday9J6eSwhUXXTd149y5hfXa-E7uqE/view?usp=sharing">ffmpeg</a></li>  
 </ul>
 
-<h3></h3>
+<h3>step 01</h3>
+<p>download all requirement and install</p>
+<br>
+<h3> step 02</h3>
+<p> clone the repo</p>
+<pre>
+
+git clone https://github.com/wijewardhane/3BMP4.git
+
+</pre>
+<br>
+
