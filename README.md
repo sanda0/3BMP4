@@ -12,11 +12,10 @@ NIBM video sessions downloader(big blue button only)
 <p>download all requirement and install</p>
 <br>
 <h3> step 02</h3>
-<p> clone the repo</p>
+<p> clone the repo <br> (Type the following code in CMD)</p>
 <pre>
 
 git clone https://github.com/wijewardhane/3BMP4.git
-
 </pre>
-<br>
+
 
